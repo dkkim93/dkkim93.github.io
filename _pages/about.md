@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am an AI research scientist at <a href="https://www.lgresearch.ai/" target="_blank">LG AI Research</a> working with <a href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en" target="_blank">Prof. Honglak Lee</a>. My current research focuses on the intersection of reinforcement learning and large language models.
 
-I received my MS/PhD at MIT, studying multiagent reinforcement learning (thesis committee: <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>, <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a>, and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a>). I received my BS (*summa cum laude*) at Cornell and worked on computer vision research.
+I received my MS/PhD at MIT, studying multiagent reinforcement learning (thesis committee: <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>, <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a>, and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a>). I received my BS (*summa cum laude*) at Cornell, working on computer vision research.
 
 I am fortunate to have received guidance from wonderful advisors: <a href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en" target="_blank">Prof. Honglak Lee</a>, <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>, <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a>, and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a>, <a href="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" target="_blank">Dr. Shayegan Omidshafiei</a>, <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a>, <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a>, and <a href="https://www.nus.edu.sg/about/management/chen-tsuhan" target="_blank">Prof. Tsuhan Chen</a>. I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">Kwanjeong Educational Foundation Fellowship</a>.
 
-&#129302; Please refer to my <a href="https://github.com/dkkim93/dkkim93.github.io/blob/master/files/Kim_DongKi_Resume.pdf" target="_blank">CV</a> for more details about my education and experiences. The up-to-date CV is available upon request.
+:page_facing_up: My up-to-date CV is available upon request.
 
 Selected News
 ======
