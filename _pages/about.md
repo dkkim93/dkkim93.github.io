@@ -28,7 +28,7 @@ Selected News
 Publication
 ======
 **Preprint**
-* Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023.
+* Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023. <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">[Paper]</a>
 
 
 **Reinforcement Learning**
