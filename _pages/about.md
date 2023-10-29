@@ -27,15 +27,14 @@ Selected News
 
 Publication
 ======
-**Preprint**
+**Natural Language Processing**
 * **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
 * Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
-* Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023. <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">[Paper]</a>
-
 
 **Reinforcement Learning**
+* Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023. <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">[Paper]</a>
 * **Dong-Ki Kim**, Matthew Riemer, Miao Liu, Jakob N. Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan P. How. Influencing Long-Term Behavior in Multiagent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS), 2022. <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">[Paper]</a> <a href="https://github.com/dkkim93/further">[Code]</a> <a href="https://sites.google.com/view/further-marl" target="_blank">[Video]</a> <a href="https://news.mit.edu/2022/multiagent-machine-learning-ai-1123" target="_blank">[MIT News]</a>
-  * Earlier version was presented at <a href="https://www.gamificationmas.com/" target="_blank">ICLR 2022 workshop</a> with spotlight &#127881;
+  * Earlier version was presented at <a href="https://www.gamificationmas.com/" target="_blank">ICLR 2022 Workshop</a> with spotlight &#127881;
 * Chuangchuang Sun, **Dong-Ki Kim**, Jonathan P. How. ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation. In International Conference on Robotics and Automation (ICRA), 2022. <a href="https://arxiv.org/pdf/2109.06795.pdf" target="_blank">[Paper]</a>
 * Marwa Abdulhai, **Dong-Ki Kim**, Matthew Riemer, Miao Liu, Gerald Tesauro, Jonathan P. How. Context-Specific Representation Abstraction for Deep Option Learning. In Association for the Advancement of Artificial Intelligence (AAAI), 2022. <a href="https://arxiv.org/pdf/2109.09876.pdf" target="_blank">[Paper]</a> <a href="https://github.com/cradol/cradol" target="_blank">[Code]</a> <a href="https://sites.google.com/view/cradol/home" target="_blank">[Video]</a>
 * **Dong-Ki Kim**, Miao Liu, Matthew Riemer, Chuangchuang Sun, Marwa Abdulhai, Golnaz Habibi, Sebastian Lopez-Cot, Gerald Tesauro, Jonathan P. How. A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning. In International Conference on Machine Learning (ICML), 2021. <a href="https://arxiv.org/pdf/2011.00382.pdf" target="_blank">[Paper]</a> <a href="https://github.com/dkkim93/meta-mapg" target="_blank">[Code]</a> <a href="https://sites.google.com/view/meta-mapg/home" target="_blank">[Video]</a>
