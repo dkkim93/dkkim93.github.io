@@ -28,6 +28,8 @@ Selected News
 Publication
 ======
 **Preprint**
+* **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
+* Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
 * Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023. <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">[Paper]</a>
 
 
