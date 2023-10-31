@@ -27,7 +27,7 @@ Selected News
 
 Publication
 ======
-**Natural Language Processing**
+**Large Language Models**
 * **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
 * Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
 
