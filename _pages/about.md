@@ -19,8 +19,8 @@ Publication
 ======
 **Large Language Models**
 * Yao Fu&#42;, **Dong-Ki Kim**&#42;, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee. AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents. Preprint. <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">[Paper]</a>
-* **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
 * Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, **Dong-Ki Kim**, Dongsub Shim, Moontae Lee, Honglak Lee. Reasoning about Action Preconditions with Programs. In North American Chapter of the Association for Computational Linguistics (NAACL), 2024. <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">[Paper]</a>
+* **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
 * Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
 
 **Reinforcement Learning**
