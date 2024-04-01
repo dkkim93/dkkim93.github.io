@@ -15,21 +15,12 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">Kwanjeon
 
 &#129303; My up-to-date CV is available upon request.
 
-Selected News
-======
-* <span style="color:gray">(Jan 2023)</span> I successfully defended my doctoral thesis "Effective Learning in Non-Stationary Multiagent Environments" &#127881;
-* <span style="color:gray">(Nov 2022)</span> Our <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">NeurIPS 2022 paper</a> is featured on <a href="https://news.mit.edu/2022/multiagent-machine-learning-ai-1123" target="_blank">MIT News</a>
-* <span style="color:gray">(Sep 2022)</span> Our work on <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">long-term MARL</a> is accepted to <a href="https://nips.cc/" target="_blank">NeurIPS 2022</a>
-* <span style="color:gray">(Jun 2022)</span> I presented our works on MARL at <a href="https://mila.quebec/en/mila/" target="_blank">MILA</a>'s MARL meeting
-* <span style="color:gray">(Jul 2021)</span> I presented our works on <a href="https://arxiv.org/pdf/2011.00382.pdf" target="_blank">meta-MARL</a> at <a href="https://mila.quebec/en/mila/" target="_blank">MILA</a>'s RL sofa meeting
-* <span style="color:gray">(May 2021)</span> Our work on <a href="https://arxiv.org/pdf/2011.00382.pdf" target="_blank">meta-MARL</a> is accepted to <a href="https://icml.cc/Conferences/2021" target="_blank">ICML 2021</a>
-* <span style="color:gray">(Jan 2019)</span> Our work on <a href="https://arxiv.org/abs/1805.07830" target="_blank">learning to teach</a> is selected for <a href="https://aaai.org/Awards/paper.php" target="_blank">*outstanding student paper honorable mention*</a> at <a href="https://aaai.org/Conferences/AAAI-19/" target="_blank">AAAI 2019</a> &#127881;
-
 Publication
 ======
 **Large Language Models**
+* Yao Fu&#42;, **Dong-Ki Kim**&#42;, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee. AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents. Preprint. <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">[Paper]</a>
 * **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
-* Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, **Dong-Ki Kim**, Dongsub Shim, Moontae Lee, Honglak Lee. Reasoning about Action Preconditions with Programs. In Neural Information Processing Systems (NeurIPS) Workshop, 2023. <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">[Paper]</a>
+* Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, **Dong-Ki Kim**, Dongsub Shim, Moontae Lee, Honglak Lee. Reasoning about Action Preconditions with Programs. In North American Chapter of the Association for Computational Linguistics (NAACL), 2024. <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">[Paper]</a>
 * Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
 
 **Reinforcement Learning**
