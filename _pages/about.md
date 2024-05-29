@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a staff research scientist at <a href="https://fieldai.com/" target="_blank">Field AI</a> working with <a href="https://www.linkedin.com/in/shayegan/" target="_blank">Dr. Shayegan Omidshafiei</a> and <a href="https://www.linkedin.com/in/ali-agha-7aa5212a/" target="_blank">Dr. Ali Agha</a>. 
+I am a staff research scientist at <a href="https://fieldai.com/" target="_blank">Field AI</a> working with <a href="https://www.linkedin.com/in/shayegan/" target="_blank">Dr. Shayegan Omidshafiei</a> and <a href="https://www.linkedin.com/in/ali-agha-7aa5212a/" target="_blank">Dr. Ali Agha</a>. Before joining Field AI, I was a research scientist at <a href="https://www.lgresearch.ai/" target="_blank">LG AI Research</a> and developed large language model agents for web navigation with <a href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en" target="_blank">Prof. Honglak Lee</a>.
 
 I received my M.S./Ph.D. from MIT, studying multiagent reinforcement learning (doctoral thesis committee: <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>, <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a>, and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a>). Prior to my graduate study, I received a B.S. (*summa cum laude*) from Cornell and worked on computer vision research (advisor: <a href="https://www.nus.edu.sg/about/management/chen-tsuhan" target="_blank">Prof. Tsuhan Chen</a>).
 
