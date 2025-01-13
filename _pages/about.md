@@ -11,7 +11,7 @@ I am a staff research scientist at <a href="https://fieldai.com/" target="_blank
 
 I received my M.S./Ph.D. from MIT, studying multiagent reinforcement learning (doctoral thesis committee: <a href="https://scholar.google.com/citations?user=gX7rSCcAAAAJ&hl=en" target="_blank">Prof. Jonathan P. How</a>, <a href="https://www.jakobfoerster.com/" target="_blank">Prof. Jakob N. Foerster</a>, and <a href="http://people.csail.mit.edu/pulkitag/" target="_blank">Prof. Pulkit Agrawal</a>). Prior to my graduate study, I received a B.S. (*summa cum laude*) from Cornell and worked on computer vision research (advisor: <a href="https://www.nus.edu.sg/about/management/chen-tsuhan" target="_blank">Prof. Tsuhan Chen</a>).
 
-I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwanjeong Educational Foundation Fellowship</a>, and have spent time at LG AI Research (advisor: <a href="https://scholar.google.com/citations?user=fmSHtE8AAAAJ&hl=en" target="_blank">Prof. Honglak Lee</a>), CMU-RI (advisor: <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a>) and TTIC (advisor: <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a>).
+I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwanjeong Educational Foundation Fellowship</a>, and have spent time at CMU-RI (advisor: <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a>) and TTIC (advisor: <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a>).
 
 &#129303; My up-to-date CV is available upon request.
 
