@@ -14,7 +14,8 @@ I received my M.S./Ph.D. from MIT, studying multiagent reinforcement learning (d
 I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwanjeong Educational Foundation Fellowship</a>, and have spent time at CMU-RI (advisor: <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/" target="_blank">Prof. Sebastian Scherer</a>) and TTIC (advisor: <a href="https://home.ttic.edu/~mwalter/" target="_blank">Prof. Matthew R. Walter</a>).
 
 &#129303; My up-to-date CV is available upon request.
-&#128196; The publication list on this website is outdated. For the most recent papers, please refer to my <a href=https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en>Google Scholar profile</a>.
+
+&#128196; The publication list on this website is outdated. For the most recent papers, please refer to my <a href="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en">Google Scholar profile</a>.
 
 Publication
 ======
