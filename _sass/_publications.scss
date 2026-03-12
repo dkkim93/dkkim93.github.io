@@ -1,0 +1,124 @@
+/* ==========================================================================
+   Publication Cards
+   ========================================================================== */
+
+.pub-section-title {
+  font-size: $type-size-3;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid $primary-color;
+}
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2em;
+  padding: 1em 0;
+  border-bottom: 1px solid $border-color;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.pub-img {
+  flex-shrink: 0;
+  width: 180px;
+  height: 120px;
+  overflow: hidden;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
+  background-color: $lighter-gray;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  &:hover img {
+    transform: scale(1.05);
+  }
+}
+
+.pub-text {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.92em;
+  line-height: 1.55;
+
+  .pub-title {
+    font-weight: 700;
+    color: $dark-gray;
+    margin-bottom: 0.15em;
+    display: block;
+  }
+
+  .pub-authors {
+    color: $gray;
+    margin-bottom: 0.15em;
+    display: block;
+  }
+
+  .pub-venue {
+    font-style: italic;
+    color: $gray;
+    margin-bottom: 0.3em;
+    display: block;
+  }
+
+  .pub-award {
+    color: $warning-color;
+    font-weight: 600;
+  }
+
+  .pub-links {
+    margin-top: 0.25em;
+
+    a {
+      display: inline-block;
+      margin-right: 0.5em;
+      font-size: $type-size-6;
+      text-decoration: none;
+      color: $link-color;
+      padding: 0.15em 0.5em;
+      border: 1px solid $link-color;
+      border-radius: $border-radius;
+      transition: $global-transition;
+
+      &:hover {
+        background-color: $link-color;
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+
+  .pub-note {
+    font-size: $type-size-7;
+    color: $gray;
+    margin-top: 0.2em;
+    display: block;
+  }
+}
+
+@include breakpoint(max-width $small) {
+  .pub-entry {
+    flex-direction: column;
+    gap: 0.8em;
+  }
+
+  .pub-img {
+    width: 100%;
+    height: 160px;
+  }
+}

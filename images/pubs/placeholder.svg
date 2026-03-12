@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240">
+  <rect width="360" height="240" fill="#e8ecef"/>
+  <text x="180" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#7a8288">Add Image</text>
+  <text x="180" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#a0a8b0">(images/pubs/)</text>
+</svg>

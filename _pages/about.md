@@ -19,33 +19,348 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwan
 
 Publication
 ======
-**Large Language Models**
-* Yao Fu&#42;, **Dong-Ki Kim**&#42;, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee. AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents. In Neural Information Processing Systems (NeurIPS), 2024. <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">[Paper]</a>
-* Jaekyeom Kim, **Dong-Ki Kim**, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee. Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Agents. In Empirical Methods in Natural Language Processing (EMNLP), 2024.
-* Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, **Dong-Ki Kim**, Dongsub Shim, Moontae Lee, Honglak Lee. Reasoning about Action Preconditions with Programs. In North American Chapter of the Association for Computational Linguistics (NAACL), 2024. <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">[Paper]</a>
-* Anthony Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, Jaekyeom Kim, **Dong-Ki Kim**, Xinhe Wang, Jaewon Yoo, Honglak Lee. SkillAct: Using Skill Abstractions Improves LLM Agents. In International Conference on Machine Learning (ICML) Workshop, 2024. <a href="https://openreview.net/pdf?id=6LG3cIRrF4" target="_blank">[Paper]</a>
-* **Dong-Ki Kim**, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee. MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS) Workshop with spotlight &#127881;, 2023. <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">[Paper]</a>
-* Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, **Dong-Ki Kim**, Dongsub Shim, Honglak Lee. TOD-Flow: Modeling the Structure of Task-Oriented Dialogues. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
 
-**Reinforcement Learning**
-* Anthony Z. Liu, **Dong-Ki Kim**, Sungryull Sohn, Honglak Lee. Learning Higher Order Skills that Efficiently Compose. In International Conference on Machine Learning (ICML) Workshop, 2023. <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">[Paper]</a>
-* **Dong-Ki Kim**, Matthew Riemer, Miao Liu, Jakob N. Foerster, Gerald Tesauro, Jonathan P. How. Game-Theoretical Perspectives on Active Equilibria: A Preferred Solution Concept over Nash Equilibria. In Conference on Robot Learning (CoRL) Workshop with oral presentation &#127881;, 2022. <a href="https://arxiv.org/pdf/2210.16175.pdf" target="_blank">[Paper]</a>
-* **Dong-Ki Kim**, Matthew Riemer, Miao Liu, Jakob N. Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan P. How. Influencing Long-Term Behavior in Multiagent Reinforcement Learning. In Neural Information Processing Systems (NeurIPS), 2022. <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">[Paper]</a> <a href="https://github.com/dkkim93/further">[Code]</a> <a href="https://sites.google.com/view/further-marl" target="_blank">[Video]</a> <a href="https://news.mit.edu/2022/multiagent-machine-learning-ai-1123" target="_blank">[MIT News]</a>
-  * Earlier version was presented at <a href="https://www.gamificationmas.com/" target="_blank">ICLR 2022 Workshop</a> with spotlight &#127881;
-* Chuangchuang Sun, **Dong-Ki Kim**, Jonathan P. How. ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation. In International Conference on Robotics and Automation (ICRA), 2022. <a href="https://arxiv.org/pdf/2109.06795.pdf" target="_blank">[Paper]</a>
-* Marwa Abdulhai, **Dong-Ki Kim**, Matthew Riemer, Miao Liu, Gerald Tesauro, Jonathan P. How. Context-Specific Representation Abstraction for Deep Option Learning. In Association for the Advancement of Artificial Intelligence (AAAI), 2022. <a href="https://arxiv.org/pdf/2109.09876.pdf" target="_blank">[Paper]</a> <a href="https://github.com/cradol/cradol" target="_blank">[Code]</a> <a href="https://sites.google.com/view/cradol/home" target="_blank">[Video]</a>
-* **Dong-Ki Kim**, Miao Liu, Matthew Riemer, Chuangchuang Sun, Marwa Abdulhai, Golnaz Habibi, Sebastian Lopez-Cot, Gerald Tesauro, Jonathan P. How. A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning. In International Conference on Machine Learning (ICML), 2021. <a href="https://arxiv.org/pdf/2011.00382.pdf" target="_blank">[Paper]</a> <a href="https://github.com/dkkim93/meta-mapg" target="_blank">[Code]</a> <a href="https://sites.google.com/view/meta-mapg/home" target="_blank">[Video]</a>
-* Chuangchuang Sun, **Dong-Ki Kim**, Jonathan P. How. FISAR: Forward Invariant Safe Reinforcement Learning with a Deep Neural Network-Based Optimizer. In International Conference on Robotics and Automation (ICRA), 2021. <a href="https://arxiv.org/pdf/2006.11419.pdf" target="_blank">[Paper]</a>
-* **Dong-Ki Kim**, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How. Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning. In International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. <a href="https://arxiv.org/pdf/1903.03216.pdf" target="_blank">[Paper]</a> <a href="https://www.wired.com/brandlab/2019/06/robotic-future-bots-operate-together-learn/" target="_blank">[WIRED News]</a>
-* Samir Wadhwania, **Dong-Ki Kim**, Shayegan Omidshafiei, Jonathan P. How. Policy Distillation and Value Matching in Multiagent Reinforcement Learning. In International Conference on Intelligent Robots and Systems (IROS), 2019. <a href="https://arxiv.org/pdf/1903.06592.pdf" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=KWdXctJauwI&feature=youtu.be&ab_channel=DongKiKim" target="_blank">[Video]</a>
-* Shayegan Omidshafiei, **Dong-Ki Kim**, Miao Liu, Gerald Tesauro, Matthew Riemer, Christopher Amato, Murray Campbell, Jonathan P. How. Learning to Teach in Cooperative Multiagent Reinforcement Learning. In Association for the Advancement of Artificial Intelligence (AAAI), 2019. <a href="https://arxiv.org/pdf/1805.07830.pdf" target="_blank">[Paper]</a> <a href="https://news.mit.edu/2019/learning-to-teach-to-speed-up-learning-0129" target="_blank">[MIT News]</a>
-  * Our work received <a href="https://aaai.org/Awards/paper.php" target="_blank">*outstanding student paper honorable mention*</a> at <a href="https://aaai.org/Conferences/AAAI-19/" target="_blank">AAAI 2019</a> &#127881;
-* Shayegan Omidshafiei&#42;, **Dong-Ki Kim**&#42;, Jason Pazis, Jonathan P. How. Crossmodal Attentive Skill Learner. In International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018 and Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2020. <a href="https://arxiv.org/pdf/1711.10314.pdf" target="_blank">[Conference Paper]</a> <a href="https://link.springer.com/article/10.1007/s10458-019-09439-5" target="_blank">[Journal Paper]</a> <a href="https://github.com/shayegano/CASL" target="_blank">[Code]</a> <a href="https://www.youtube.com/watch?v=pj8tva5YayA&ab_channel=ShayeganOmidshafiei" target="_blank">[Video]</a>
+<h3 class="pub-section-title">Large Language Models</h3>
 
-**Computer Vision & Robotics**
-* Lena M. Downes, **Dong-Ki Kim**, Ted J. Steiner, Jonathan P. How. City-wide Street-to-Satellite Image Geolocalization of a Mobile Ground Agent. In International Conference on Intelligent Robots and Systems (IROS), 2022. <a href="https://arxiv.org/pdf/2203.05612.pdf" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=06MOR0ozQeI&feature=youtu.be&ab_channel=LenaDownes" target="_blank">[Video]</a>
-* Andrea Tagliabue, **Dong-Ki Kim**, Michael Everett, Jonathan P. How. Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC. In International Conference on Robotics and Automation (ICRA), 2022. <a href="https://arxiv.org/pdf/2109.09910.pdf" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=idRxALlYHu8&ab_channel=AerospaceControlsLab" target="_blank">[Video]</a>
-* **Dong-Ki Kim**, Matthew R. Walter. Satellite Image-based Localization via Learned Embeddings. In International Conference on Robotics and Automation (ICRA), 2017. <a href="https://arxiv.org/pdf/1704.01133.pdf" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=58K1-0WpGNs&ab_channel=DongKiKim" target="_blank">[Video]</a> <a href="https://developer.nvidia.com/blog/satellite-images-help-track-a-vehicle/" target="_blank">[NVIDIA News]</a>
-* **Dong-Ki Kim**, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer. Season-Invariant Semantic Segmentation with A Deep Multimodal Network. In Field and Service Robotics (FSR), 2017. <a href="http://www.fsr.ethz.ch/papers/FSR_2017_paper_23.pdf" target="_blank">[Paper]</a>
-* Hang Chu, **Dong-Ki Kim**, Tsuhan Chen. You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans. In International Conference on Computer Vision (ICCV), 2015. <a href="http://chenlab.ece.cornell.edu/people/Hang/publications/Hang_ICCV15.pdf" target="_blank">[Paper]</a> <a href="https://vimeo.com/142409054" target="_blank">[Video]</a>
-* **Dong-Ki Kim**, Tsuhan Chen. Deep Neural Network for Real-Time Autonomous Indoor Navigation. Technical Report, 2015. <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">[Paper]</a> <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">[Video]</a>
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/autoguide.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="AutoGuide">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents</span>
+    <span class="pub-authors">Yao Fu*, <strong>Dong-Ki Kim</strong>*, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2024</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/auto-intent.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Auto-Intent">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Agents</span>
+    <span class="pub-authors">Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee</span>
+    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/action-preconditions.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Reasoning about Action Preconditions">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Reasoning about Action Preconditions with Programs</span>
+    <span class="pub-authors">Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Moontae Lee, Honglak Lee</span>
+    <span class="pub-venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>
+    <div class="pub-links">
+      <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/skillact.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="SkillAct">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
+    <span class="pub-authors">Anthony Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Xinhe Wang, Jaewon Yoo, Honglak Lee</span>
+    <span class="pub-venue">International Conference on Machine Learning (ICML) Workshop, 2024</span>
+    <div class="pub-links">
+      <a href="https://openreview.net/pdf?id=6LG3cIRrF4" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/multiprompter.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MultiPrompter">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS) Workshop, 2023</span>
+    <span class="pub-award">&#127881; Spotlight</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/tod-flow.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="TOD-Flow">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">TOD-Flow: Modeling the Structure of Task-Oriented Dialogues</span>
+    <span class="pub-authors">Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Honglak Lee</span>
+    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+  </div>
+</div>
+
+<h3 class="pub-section-title">Reinforcement Learning</h3>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/higher-order-skills.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Higher Order Skills">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Learning Higher Order Skills that Efficiently Compose</span>
+    <span class="pub-authors">Anthony Z. Liu, <strong>Dong-Ki Kim</strong>, Sungryull Sohn, Honglak Lee</span>
+    <span class="pub-venue">International Conference on Machine Learning (ICML) Workshop, 2023</span>
+    <div class="pub-links">
+      <a href="https://openreview.net/attachment?id=mEElj97a8C&name=pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/active-equilibria.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Active Equilibria">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Game-Theoretical Perspectives on Active Equilibria: A Preferred Solution Concept over Nash Equilibria</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Jakob N. Foerster, Gerald Tesauro, Jonathan P. How</span>
+    <span class="pub-venue">Conference on Robot Learning (CoRL) Workshop, 2022</span>
+    <span class="pub-award">&#127881; Oral Presentation</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2210.16175.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/further.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="FURTHER">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Influencing Long-Term Behavior in Multiagent Reinforcement Learning</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Jakob N. Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan P. How</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2022</span>
+    <span class="pub-note">Earlier version at ICLR 2022 Workshop <span class="pub-award">&#127881; Spotlight</span></span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">Paper</a>
+      <a href="https://github.com/dkkim93/further" target="_blank">Code</a>
+      <a href="https://sites.google.com/view/further-marl" target="_blank">Video</a>
+      <a href="https://news.mit.edu/2022/multiagent-machine-learning-ai-1123" target="_blank">MIT News</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/romax.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="ROMAX">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">ROMAX: Certifiably Robust Deep Multiagent Reinforcement Learning via Convex Relaxation</span>
+    <span class="pub-authors">Chuangchuang Sun, <strong>Dong-Ki Kim</strong>, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2022</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2109.06795.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/cradol.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="CRADOL">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Context-Specific Representation Abstraction for Deep Option Learning</span>
+    <span class="pub-authors">Marwa Abdulhai, <strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Gerald Tesauro, Jonathan P. How</span>
+    <span class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2022</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2109.09876.pdf" target="_blank">Paper</a>
+      <a href="https://github.com/cradol/cradol" target="_blank">Code</a>
+      <a href="https://sites.google.com/view/cradol/home" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/meta-mapg.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Meta-MAPG">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Miao Liu, Matthew Riemer, Chuangchuang Sun, Marwa Abdulhai, Golnaz Habibi, Sebastian Lopez-Cot, Gerald Tesauro, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Machine Learning (ICML), 2021</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2011.00382.pdf" target="_blank">Paper</a>
+      <a href="https://github.com/dkkim93/meta-mapg" target="_blank">Code</a>
+      <a href="https://sites.google.com/view/meta-mapg/home" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/fisar.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="FISAR">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">FISAR: Forward Invariant Safe Reinforcement Learning with a Deep Neural Network-Based Optimizer</span>
+    <span class="pub-authors">Chuangchuang Sun, <strong>Dong-Ki Kim</strong>, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2021</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2006.11419.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/hierarchical-teaching.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Hierarchical Teaching">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Learning Hierarchical Teaching in Cooperative Multiagent Reinforcement Learning</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Miao Liu, Shayegan Omidshafiei, Sebastian Lopez-Cot, Matthew Riemer, Golnaz Habibi, Gerald Tesauro, Sami Mourad, Murray Campbell, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1903.03216.pdf" target="_blank">Paper</a>
+      <a href="https://www.wired.com/brandlab/2019/06/robotic-future-bots-operate-together-learn/" target="_blank">WIRED News</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/policy-distillation.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Policy Distillation">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Policy Distillation and Value Matching in Multiagent Reinforcement Learning</span>
+    <span class="pub-authors">Samir Wadhwania, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2019</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1903.06592.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=KWdXctJauwI&feature=youtu.be&ab_channel=DongKiKim" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/learning-to-teach.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Learning to Teach">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Learning to Teach in Cooperative Multiagent Reinforcement Learning</span>
+    <span class="pub-authors">Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Miao Liu, Gerald Tesauro, Matthew Riemer, Christopher Amato, Murray Campbell, Jonathan P. How</span>
+    <span class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2019</span>
+    <span class="pub-award">&#127881; Outstanding Student Paper Honorable Mention</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1805.07830.pdf" target="_blank">Paper</a>
+      <a href="https://news.mit.edu/2019/learning-to-teach-to-speed-up-learning-0129" target="_blank">MIT News</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/casl.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="CASL">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Crossmodal Attentive Skill Learner</span>
+    <span class="pub-authors">Shayegan Omidshafiei*, <strong>Dong-Ki Kim</strong>*, Jason Pazis, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018 &amp; Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2020</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1711.10314.pdf" target="_blank">Conference Paper</a>
+      <a href="https://link.springer.com/article/10.1007/s10458-019-09439-5" target="_blank">Journal Paper</a>
+      <a href="https://github.com/shayegano/CASL" target="_blank">Code</a>
+      <a href="https://www.youtube.com/watch?v=pj8tva5YayA&ab_channel=ShayeganOmidshafiei" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<h3 class="pub-section-title">Computer Vision &amp; Robotics</h3>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/geolocalization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Geolocalization">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">City-wide Street-to-Satellite Image Geolocalization of a Mobile Ground Agent</span>
+    <span class="pub-authors">Lena M. Downes, <strong>Dong-Ki Kim</strong>, Ted J. Steiner, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2022</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2203.05612.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=06MOR0ozQeI&feature=youtu.be&ab_channel=LenaDownes" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/tube-mpc.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Tube MPC">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC</span>
+    <span class="pub-authors">Andrea Tagliabue, <strong>Dong-Ki Kim</strong>, Michael Everett, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2022</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2109.09910.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=idRxALlYHu8&ab_channel=AerospaceControlsLab" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/satellite-localization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Satellite Localization">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Satellite Image-based Localization via Learned Embeddings</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew R. Walter</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2017</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1704.01133.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=58K1-0WpGNs&ab_channel=DongKiKim" target="_blank">Video</a>
+      <a href="https://developer.nvidia.com/blog/satellite-images-help-track-a-vehicle/" target="_blank">NVIDIA News</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/season-invariant.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Season-Invariant Segmentation">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Season-Invariant Semantic Segmentation with A Deep Multimodal Network</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer</span>
+    <span class="pub-venue">Field and Service Robotics (FSR), 2017</span>
+    <div class="pub-links">
+      <a href="http://www.fsr.ethz.ch/papers/FSR_2017_paper_23.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/floor-plans.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Floor Plans">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans</span>
+    <span class="pub-authors">Hang Chu, <strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
+    <span class="pub-venue">International Conference on Computer Vision (ICCV), 2015</span>
+    <div class="pub-links">
+      <a href="http://chenlab.ece.cornell.edu/people/Hang/publications/Hang_ICCV15.pdf" target="_blank">Paper</a>
+      <a href="https://vimeo.com/142409054" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/indoor-navigation.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Indoor Navigation">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Deep Neural Network for Real-Time Autonomous Indoor Navigation</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
+    <span class="pub-venue">Technical Report, 2015</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">Paper</a>
+      <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">Video</a>
+    </div>
+  </div>
+</div>
