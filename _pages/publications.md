@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+🚧 **Note: This publication page is currently under update.** 🚧
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
