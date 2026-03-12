@@ -15,7 +15,7 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwan
 
 &#129303; My up-to-date CV is available upon request.
 
-&#128196; The publication list on this website is outdated. For the most recent papers, please refer to my <a href="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en">Google Scholar profile</a>.
+&#128196; The publication list on this website is under construction. For the most recent papers, please refer to my <a href="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en">Google Scholar profile</a>.
 
 Publication
 ======
