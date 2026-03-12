@@ -3,11 +3,10 @@
    ========================================================================== */
 
 .pub-section-title {
-  font-size: $type-size-3;
+  font-size: $type-size-5;
   margin-top: 1.5em;
   margin-bottom: 0.8em;
   padding-bottom: 0.4em;
-  border-bottom: 2px solid $primary-color;
 }
 
 .pub-list {
@@ -104,7 +103,7 @@
   }
 
   .pub-note {
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     color: $gray;
     margin-top: 0.2em;
     display: block;
