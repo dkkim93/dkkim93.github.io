@@ -98,6 +98,9 @@ Publication
     <span class="pub-title">TOD-Flow: Modeling the Structure of Task-Oriented Dialogues</span>
     <span class="pub-authors">Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Honglak Lee</span>
     <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/anthology-files/pdf/emnlp/2023.emnlp-main.204.pdf" target="_blank">Paper</a>
+    </div>
   </div>
 </div>
 
