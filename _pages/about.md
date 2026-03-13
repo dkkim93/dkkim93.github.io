@@ -44,6 +44,9 @@ Publication
     <span class="pub-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Agents</span>
     <span class="pub-authors">Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee</span>
     <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2410.22552" target="_blank">Paper</a>
+    </div>
   </div>
 </div>
 
@@ -333,7 +336,7 @@ Publication
     <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer</span>
     <span class="pub-venue">Field and Service Robotics (FSR), 2017</span>
     <div class="pub-links">
-      <a href="http://www.fsr.ethz.ch/papers/FSR_2017_paper_23.pdf" target="_blank">Paper</a>
+      <a href="https://www.ri.cmu.edu/app/uploads/2017/11/Season-Invariant_Semantic_Segmentation_with_A_Deep_Multimodal_Network.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
