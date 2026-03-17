@@ -140,7 +140,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/further.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="FURTHER">
+    <video src="/images/pubs/further.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Influencing Long-Term Behavior in Multiagent Reinforcement Learning</span>
