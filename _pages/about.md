@@ -329,7 +329,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/season-invariant.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Season-Invariant Segmentation">
+    <video src="/images/pubs/season-invariant.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Season-Invariant Semantic Segmentation with A Deep Multimodal Network</span>
