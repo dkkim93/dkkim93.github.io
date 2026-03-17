@@ -20,105 +20,94 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwan
 Publication
 ======
 
-<h3 class="pub-section-title">Large Language/Vision Models</h3>
+<h3 class="pub-section-title">Robot Learning</h3>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/monday.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MONDAY">
+    <img src="/images/pubs/geolocalization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Geolocalization">
   </div>
   <div class="pub-text">
-    <span class="pub-title">MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents</span>
-    <span class="pub-authors">Yunseok Jang*, Yeda Song*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, <strong>Dong-Ki Kim</strong>, Kyunghoon Bae, Honglak Lee</span>
-    <span class="pub-venue">Computer Vision and Pattern Recognition (CVPR), 2025</span>
+    <span class="pub-title">City-wide Street-to-Satellite Image Geolocalization of a Mobile Ground Agent</span>
+    <span class="pub-authors">Lena M. Downes, <strong>Dong-Ki Kim</strong>, Ted J. Steiner, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2022</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2505.14829" target="_blank">Paper</a>
-      <a href="https://github.com/monday-dataset/MONDAY" target="_blank">Code</a>
-      <a href="https://monday-dataset.github.io/" target="_blank">Project</a>
+      <a href="https://arxiv.org/pdf/2203.05612.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=06MOR0ozQeI&feature=youtu.be&ab_channel=LenaDownes" target="_blank">Video</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/autoguide.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="AutoGuide">
+    <video src="/images/pubs/tube-mpc.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
-    <span class="pub-title">AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents</span>
-    <span class="pub-authors">Yao Fu*, <strong>Dong-Ki Kim</strong>*, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee</span>
-    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2024</span>
+    <span class="pub-title">Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC</span>
+    <span class="pub-authors">Andrea Tagliabue, <strong>Dong-Ki Kim</strong>, Michael Everett, Jonathan P. How</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2022</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">Paper</a>
+      <a href="https://arxiv.org/pdf/2109.09910.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=idRxALlYHu8&ab_channel=AerospaceControlsLab" target="_blank">Video</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/auto-intent.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Auto-Intent">
+    <video src="/images/pubs/satellite-localization.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
-    <span class="pub-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Agents</span>
-    <span class="pub-authors">Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee</span>
-    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>
+    <span class="pub-title">Satellite Image-based Localization via Learned Embeddings</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew R. Walter</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2017</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2410.22552" target="_blank">Paper</a>
+      <a href="https://arxiv.org/pdf/1704.01133.pdf" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=58K1-0WpGNs&ab_channel=DongKiKim" target="_blank">Video</a>
+      <a href="https://developer.nvidia.com/blog/satellite-images-help-track-a-vehicle/" target="_blank">NVIDIA News</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/action-preconditions.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Reasoning about Action Preconditions">
+    <video src="/images/pubs/season-invariant.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
-    <span class="pub-title">Code Models are Zero-shot Precondition Reasoners</span>
-    <span class="pub-authors">Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Moontae Lee, Honglak Lee</span>
-    <span class="pub-venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>
+    <span class="pub-title">Season-Invariant Semantic Segmentation with A Deep Multimodal Network</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer</span>
+    <span class="pub-venue">Field and Service Robotics (FSR), 2017</span>
     <div class="pub-links">
-      <a href="https://aclanthology.org/2024.naacl-long.317.pdf" target="_blank">Paper</a>
+      <a href="https://www.ri.cmu.edu/app/uploads/2017/11/Season-Invariant_Semantic_Segmentation_with_A_Deep_Multimodal_Network.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/skillact.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="SkillAct">
+    <img src="/images/pubs/floor-plans.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Floor Plans">
   </div>
   <div class="pub-text">
-    <span class="pub-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
-    <span class="pub-authors">Anthony Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Xinhe Wang, Jaewon Yoo, Honglak Lee</span>
-    <span class="pub-venue">International Conference on Machine Learning (ICML) Workshop, 2024</span>
+    <span class="pub-title">You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans</span>
+    <span class="pub-authors">Hang Chu, <strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
+    <span class="pub-venue">International Conference on Computer Vision (ICCV), 2015</span>
     <div class="pub-links">
-      <a href="https://openreview.net/pdf?id=6LG3cIRrF4" target="_blank">Paper</a>
+      <a href="http://chenlab.ece.cornell.edu/people/Hang/publications/Hang_ICCV15.pdf" target="_blank">Paper</a>
+      <a href="https://vimeo.com/142409054" target="_blank">Video</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/multiprompter.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MultiPrompter">
+    <img src="/images/pubs/indoor-navigation.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Indoor Navigation">
   </div>
   <div class="pub-text">
-    <span class="pub-title">MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning</span>
-    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee</span>
-    <span class="pub-venue">Neural Information Processing Systems (NeurIPS) Workshop, 2023</span>
-    <span class="pub-award">&#127881; Spotlight</span>
+    <span class="pub-title">Deep Neural Network for Real-Time Autonomous Indoor Navigation</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
+    <span class="pub-venue">Technical Report, 2015</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">Paper</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-img">
-    <img src="/images/pubs/tod-flow.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="TOD-Flow">
-  </div>
-  <div class="pub-text">
-    <span class="pub-title">TOD-Flow: Modeling the Structure of Task-Oriented Dialogues</span>
-    <span class="pub-authors">Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Honglak Lee</span>
-    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
-    <div class="pub-links">
-      <a href="https://aclanthology.org/anthology-files/pdf/emnlp/2023.emnlp-main.204.pdf" target="_blank">Paper</a>
+      <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">Paper</a>
+      <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">Video</a>
     </div>
   </div>
 </div>
@@ -295,94 +284,105 @@ Publication
   </div>
 </div>
 
-<h3 class="pub-section-title">Robot Learning</h3>
+<h3 class="pub-section-title">Large Language/Vision Models</h3>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/geolocalization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Geolocalization">
+    <img src="/images/pubs/monday.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MONDAY">
   </div>
   <div class="pub-text">
-    <span class="pub-title">City-wide Street-to-Satellite Image Geolocalization of a Mobile Ground Agent</span>
-    <span class="pub-authors">Lena M. Downes, <strong>Dong-Ki Kim</strong>, Ted J. Steiner, Jonathan P. How</span>
-    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2022</span>
+    <span class="pub-title">MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents</span>
+    <span class="pub-authors">Yunseok Jang*, Yeda Song*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, <strong>Dong-Ki Kim</strong>, Kyunghoon Bae, Honglak Lee</span>
+    <span class="pub-venue">Computer Vision and Pattern Recognition (CVPR), 2025</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2203.05612.pdf" target="_blank">Paper</a>
-      <a href="https://www.youtube.com/watch?v=06MOR0ozQeI&feature=youtu.be&ab_channel=LenaDownes" target="_blank">Video</a>
+      <a href="https://arxiv.org/abs/2505.14829" target="_blank">Paper</a>
+      <a href="https://github.com/monday-dataset/MONDAY" target="_blank">Code</a>
+      <a href="https://monday-dataset.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="/images/pubs/tube-mpc.mp4" autoplay loop muted playsinline></video>
+    <img src="/images/pubs/autoguide.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="AutoGuide">
   </div>
   <div class="pub-text">
-    <span class="pub-title">Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC</span>
-    <span class="pub-authors">Andrea Tagliabue, <strong>Dong-Ki Kim</strong>, Michael Everett, Jonathan P. How</span>
-    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2022</span>
+    <span class="pub-title">AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents</span>
+    <span class="pub-authors">Yao Fu*, <strong>Dong-Ki Kim</strong>*, Jaekyeom Kim, Sungryull Sohn, Lajanugen Logeswaran, Kyunghoon Bae, Honglak Lee</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2024</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2109.09910.pdf" target="_blank">Paper</a>
-      <a href="https://www.youtube.com/watch?v=idRxALlYHu8&ab_channel=AerospaceControlsLab" target="_blank">Video</a>
+      <a href="https://arxiv.org/pdf/2403.08978.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="/images/pubs/satellite-localization.mp4" autoplay loop muted playsinline></video>
+    <img src="/images/pubs/auto-intent.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Auto-Intent">
   </div>
   <div class="pub-text">
-    <span class="pub-title">Satellite Image-based Localization via Learned Embeddings</span>
-    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew R. Walter</span>
-    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2017</span>
+    <span class="pub-title">Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Agents</span>
+    <span class="pub-authors">Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee</span>
+    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2024</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/1704.01133.pdf" target="_blank">Paper</a>
-      <a href="https://www.youtube.com/watch?v=58K1-0WpGNs&ab_channel=DongKiKim" target="_blank">Video</a>
-      <a href="https://developer.nvidia.com/blog/satellite-images-help-track-a-vehicle/" target="_blank">NVIDIA News</a>
+      <a href="https://arxiv.org/abs/2410.22552" target="_blank">Paper</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="/images/pubs/season-invariant.mp4" autoplay loop muted playsinline></video>
+    <img src="/images/pubs/action-preconditions.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Reasoning about Action Preconditions">
   </div>
   <div class="pub-text">
-    <span class="pub-title">Season-Invariant Semantic Segmentation with A Deep Multimodal Network</span>
-    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Daniel Maturana, Masashi Uenoyama, Sebastian Scherer</span>
-    <span class="pub-venue">Field and Service Robotics (FSR), 2017</span>
+    <span class="pub-title">Code Models are Zero-shot Precondition Reasoners</span>
+    <span class="pub-authors">Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Moontae Lee, Honglak Lee</span>
+    <span class="pub-venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>
     <div class="pub-links">
-      <a href="https://www.ri.cmu.edu/app/uploads/2017/11/Season-Invariant_Semantic_Segmentation_with_A_Deep_Multimodal_Network.pdf" target="_blank">Paper</a>
+      <a href="https://aclanthology.org/2024.naacl-long.317.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/floor-plans.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Floor Plans">
+    <img src="/images/pubs/skillact.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="SkillAct">
   </div>
   <div class="pub-text">
-    <span class="pub-title">You Are Here: Mimicking the Human Thinking Process in Reading Floor-Plans</span>
-    <span class="pub-authors">Hang Chu, <strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
-    <span class="pub-venue">International Conference on Computer Vision (ICCV), 2015</span>
+    <span class="pub-title">SkillAct: Using Skill Abstractions Improves LLM Agents</span>
+    <span class="pub-authors">Anthony Liu, Jongwook Choi, Sungryull Sohn, Yao Fu, Jaekyeom Kim, <strong>Dong-Ki Kim</strong>, Xinhe Wang, Jaewon Yoo, Honglak Lee</span>
+    <span class="pub-venue">International Conference on Machine Learning (ICML) Workshop, 2024</span>
     <div class="pub-links">
-      <a href="http://chenlab.ece.cornell.edu/people/Hang/publications/Hang_ICCV15.pdf" target="_blank">Paper</a>
-      <a href="https://vimeo.com/142409054" target="_blank">Video</a>
+      <a href="https://openreview.net/pdf?id=6LG3cIRrF4" target="_blank">Paper</a>
     </div>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/indoor-navigation.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Indoor Navigation">
+    <img src="/images/pubs/multiprompter.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MultiPrompter">
   </div>
   <div class="pub-text">
-    <span class="pub-title">Deep Neural Network for Real-Time Autonomous Indoor Navigation</span>
-    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Tsuhan Chen</span>
-    <span class="pub-venue">Technical Report, 2015</span>
+    <span class="pub-title">MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning</span>
+    <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS) Workshop, 2023</span>
+    <span class="pub-award">&#127881; Spotlight</span>
     <div class="pub-links">
-      <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">Paper</a>
-      <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">Video</a>
+      <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/tod-flow.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="TOD-Flow">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">TOD-Flow: Modeling the Structure of Task-Oriented Dialogues</span>
+    <span class="pub-authors">Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, Lajanugen Logeswaran, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Honglak Lee</span>
+    <span class="pub-venue">Empirical Methods in Natural Language Processing (EMNLP), 2023</span>
+    <div class="pub-links">
+      <a href="https://aclanthology.org/anthology-files/pdf/emnlp/2023.emnlp-main.204.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
