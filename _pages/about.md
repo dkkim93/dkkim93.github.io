@@ -24,6 +24,22 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/pubs/monday.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="MONDAY">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">MONDAY: Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents</span>
+    <span class="pub-authors">Yunseok Jang*, Yeda Song*, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, <strong>Dong-Ki Kim</strong>, Kyunghoon Bae, Honglak Lee</span>
+    <span class="pub-venue">Computer Vision and Pattern Recognition (CVPR), 2025</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2505.14829" target="_blank">Paper</a>
+      <a href="https://github.com/monday-dataset/MONDAY" target="_blank">Code</a>
+      <a href="https://monday-dataset.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/pubs/autoguide.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="AutoGuide">
   </div>
   <div class="pub-text">
