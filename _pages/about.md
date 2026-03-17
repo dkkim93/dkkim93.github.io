@@ -233,7 +233,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/policy-distillation.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Policy Distillation">
+    <video src="/images/pubs/policy-distillation.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Policy Distillation and Value Matching in Multiagent Reinforcement Learning</span>
