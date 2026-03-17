@@ -313,7 +313,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/satellite-localization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Satellite Localization">
+    <video src="/images/pubs/satellite-localization.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Satellite Image-based Localization via Learned Embeddings</span>
