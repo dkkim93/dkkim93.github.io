@@ -20,7 +20,7 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwan
 Publication
 ======
 
-<h3 class="pub-section-title">Large Language Models</h3>
+<h3 class="pub-section-title">Large Language/Vision Models</h3>
 
 <div class="pub-entry">
   <div class="pub-img">
