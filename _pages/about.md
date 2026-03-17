@@ -264,7 +264,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/casl.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="CASL">
+    <img src="/images/pubs/casl.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="CASL">
   </div>
   <div class="pub-text">
     <span class="pub-title">Crossmodal Attentive Skill Learner</span>
