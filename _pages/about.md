@@ -71,11 +71,11 @@ Publication
     <img src="/images/pubs/action-preconditions.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Reasoning about Action Preconditions">
   </div>
   <div class="pub-text">
-    <span class="pub-title">Reasoning about Action Preconditions with Programs</span>
+    <span class="pub-title">Code Models are Zero-shot Precondition Reasoners</span>
     <span class="pub-authors">Lajanugen Logeswaran, Sungryull Sohn, Yiwei Lyu, Anthony Z. Liu, <strong>Dong-Ki Kim</strong>, Dongsub Shim, Moontae Lee, Honglak Lee</span>
     <span class="pub-venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2024</span>
     <div class="pub-links">
-      <a href="https://openreview.net/pdf?id=vnhgDP4Ise" target="_blank">Paper</a>
+      <a href="https://aclanthology.org/2024.naacl-long.317.pdf" target="_blank">Paper</a>
     </div>
   </div>
 </div>
