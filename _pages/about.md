@@ -295,7 +295,7 @@ Publication
   </div>
 </div>
 
-<h3 class="pub-section-title">Computer Vision &amp; Robotics</h3>
+<h3 class="pub-section-title">Robot Learning</h3>
 
 <div class="pub-entry">
   <div class="pub-img">
