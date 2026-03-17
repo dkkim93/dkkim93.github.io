@@ -298,7 +298,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/tube-mpc.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Tube MPC">
+    <video src="/images/pubs/tube-mpc.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC</span>

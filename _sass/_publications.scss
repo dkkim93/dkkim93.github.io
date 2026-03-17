@@ -36,7 +36,8 @@
   border: 1px solid $border-color;
   background-color: #fff;
 
-  img {
+  img,
+  video {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -44,7 +45,8 @@
     transition: transform 0.3s ease;
   }
 
-  &:hover img {
+  &:hover img,
+  &:hover video {
     transform: scale(1.05);
   }
 }
