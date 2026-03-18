@@ -96,7 +96,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="VENTURA">
+    <img src="/images/pubs/ventura.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="VENTURA">
   </div>
   <div class="pub-text">
     <span class="pub-title">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</span>
