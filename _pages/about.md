@@ -24,6 +24,137 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="ELLIPSE">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">ELLIPSE: Evidential Learning for Robust Waypoints and Uncertainties</span>
+    <span class="pub-authors">Zihao Dong, Chanyoung Chung, <strong>Dong-Ki Kim</strong>, Mukhtar Maulimov, Xiangyun Meng, Harmish Khambhaita, Ali-akbar Agha-mohammadi, Amirreza Shaban</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2603.04585" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="Delay-Aware Diffusion Policy">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
+    <span class="pub-authors">Aileen Liao, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2512.07697" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="GrndCtrl">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment</span>
+    <span class="pub-authors">Haoyang He, Jay Patrikar, <strong>Dong-Ki Kim</strong>, Max Smith, Daniel McGann, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei, Sebastian Scherer</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2512.01952" target="_blank">Paper</a>
+      <a href="https://rlwg-grndctrl.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="SketchVerify">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Planning with Sketch-Guided Verification for Physics-Aware Video Generation</span>
+    <span class="pub-authors">Yidong Huang, Zun Wang, Han Lin, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, Mohit Bansal</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2511.17450" target="_blank">Paper</a>
+      <a href="https://sketchverify.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="Don't Run with Scissors">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
+    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali-akbar Agha-mohammadi, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="VENTURA">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</span>
+    <span class="pub-authors">Arthur Zhang, Xiangyun Meng, Luca Calliari, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Joydeep Biswas, Ali Agha, Amirreza Shaban</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2510.01388" target="_blank">Paper</a>
+      <a href="https://venturapath.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="StageACT">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening</span>
+    <span class="pub-authors">Moonyoung Lee, <strong>Dong-Ki Kim</strong>, Jai Krishna Bandi, Max Smith, Aileen Liao, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2509.13200" target="_blank">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="Mind Palace">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering</span>
+    <span class="pub-authors">M. Fadhil Ginting, <strong>Dong-Ki Kim</strong>, Xiangyun Meng, Andrzej Reinke, Bandi Jai Krishna, Navid Kayhani, Oriana Peltzer, David D. Fan, Amirreza Shaban, Sung-Kyun Kim, Mykel J. Kochenderfer, Ali Agha, Shayegan Omidshafiei</span>
+    <span class="pub-venue">Conference on Robot Learning (CoRL), 2025</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2507.12846" target="_blank">Paper</a>
+      <a href="https://mind-palace-laeqa.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/placeholder.svg" alt="SayComply">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models</span>
+    <span class="pub-authors">Muhammad Fadhil Ginting, <strong>Dong-Ki Kim</strong>, Sung-Kyun Kim, Bandi Jai Krishna, Mykel J. Kochenderfer, Shayegan Omidshafiei, Ali-akbar Agha-mohammadi</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2025</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2411.11323" target="_blank">Paper</a>
+      <a href="https://saycomply.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/pubs/geolocalization.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="Geolocalization">
   </div>
   <div class="pub-text">
