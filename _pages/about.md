@@ -24,7 +24,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="ELLIPSE">
+    <video src="/images/pubs/ellipse.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">ELLIPSE: Evidential Learning for Robust Waypoints and Uncertainties</span>
@@ -38,7 +38,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="Delay-Aware Diffusion Policy">
+    <video src="/images/pubs/blurred_dadp.MP4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
@@ -52,7 +52,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="GrndCtrl">
+    <img src="/images/pubs/grndctrl.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="GrndCtrl">
   </div>
   <div class="pub-text">
     <span class="pub-title">GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment</span>
@@ -67,7 +67,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="SketchVerify">
+    <img src="/images/pubs/verifier_method_website.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="SketchVerify">
   </div>
   <div class="pub-text">
     <span class="pub-title">Planning with Sketch-Guided Verification for Physics-Aware Video Generation</span>
@@ -82,7 +82,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="Don't Run with Scissors">
+    <video src="/images/pubs/gluestick.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
