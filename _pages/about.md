@@ -125,7 +125,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="/images/pubs/mindpalace.mp4" autoplay loop muted playsinline onloadedmetadata="this.currentTime=18" ontimeupdate="if(this.currentTime>=53) this.currentTime=18"></video>
+    <video src="/images/pubs/mindpalace.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering</span>
