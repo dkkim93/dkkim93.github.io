@@ -111,7 +111,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="StageACT">
+    <img src="/images/pubs/door_humanoid.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="StageACT">
   </div>
   <div class="pub-text">
     <span class="pub-title">StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening</span>
@@ -125,7 +125,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="Mind Palace">
+    <video src="/images/pubs/mindpalace.mp4" autoplay loop muted playsinline onloadedmetadata="this.currentTime=18" ontimeupdate="if(this.currentTime>=53) this.currentTime=18"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering</span>
