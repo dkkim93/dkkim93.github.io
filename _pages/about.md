@@ -28,7 +28,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">ELLIPSE: Evidential Learning for Robust Waypoints and Uncertainties</span>
-    <span class="pub-authors">Zihao Dong, Chanyoung Chung, <strong>Dong-Ki Kim</strong>, Mukhtar Maulimov, Xiangyun Meng, Harmish Khambhaita, Ali-akbar Agha-mohammadi, Amirreza Shaban</span>
+    <span class="pub-authors">Zihao Dong, Chanyoung Chung^*, <strong>Dong-Ki Kim</strong>^*, Mukhtar Maulimov^*, Xiangyun Meng, Harmish Khambhaita, Ali Agha, Amirreza Shaban</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.04585" target="_blank">Paper</a>
@@ -42,7 +42,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
-    <span class="pub-authors">Aileen Liao, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei</span>
+    <span class="pub-authors">Aileen Liao, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Ali Agha, Shayegan Omidshafiei</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.07697" target="_blank">Paper</a>
@@ -56,7 +56,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment</span>
-    <span class="pub-authors">Haoyang He, Jay Patrikar, <strong>Dong-Ki Kim</strong>, Max Smith, Daniel McGann, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei, Sebastian Scherer</span>
+    <span class="pub-authors">Haoyang He, Jay Patrikar, <strong>Dong-Ki Kim</strong>, Max Smith, Daniel McGann, Ali Agha, Shayegan Omidshafiei, Sebastian Scherer</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.01952" target="_blank">Paper</a>
@@ -86,7 +86,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
-    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali-akbar Agha-mohammadi, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
+    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali Agha, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
@@ -115,7 +115,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening</span>
-    <span class="pub-authors">Moonyoung Lee, <strong>Dong-Ki Kim</strong>, Jai Krishna Bandi, Max Smith, Aileen Liao, Ali-akbar Agha-mohammadi, Shayegan Omidshafiei</span>
+    <span class="pub-authors">Moonyoung Lee, <strong>Dong-Ki Kim</strong>, Jai Krishna Bandi, Max Smith, Aileen Liao, Ali Agha, Shayegan Omidshafiei</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2509.13200" target="_blank">Paper</a>
@@ -144,7 +144,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models</span>
-    <span class="pub-authors">Muhammad Fadhil Ginting, <strong>Dong-Ki Kim</strong>, Sung-Kyun Kim, Bandi Jai Krishna, Mykel J. Kochenderfer, Shayegan Omidshafiei, Ali-akbar Agha-mohammadi</span>
+    <span class="pub-authors">Muhammad Fadhil Ginting, <strong>Dong-Ki Kim</strong>, Sung-Kyun Kim, Bandi Jai Krishna, Mykel J. Kochenderfer, Shayegan Omidshafiei, Ali Agha</span>
     <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2025</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2411.11323" target="_blank">Paper</a>
