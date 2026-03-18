@@ -140,7 +140,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/placeholder.svg" alt="SayComply">
+    <video src="/images/pubs/saycomply.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models</span>
