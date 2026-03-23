@@ -282,8 +282,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Game-Theoretical Perspectives on Active Equilibria: A Preferred Solution Concept over Nash Equilibria</span>
     <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Jakob N. Foerster, Gerald Tesauro, Jonathan P. How</span>
-    <span class="pub-venue">Conference on Robot Learning (CoRL) Workshop, 2022</span>
-    <span class="pub-award">&#127881; Oral Presentation</span>
+    <span class="pub-venue">Conference on Robot Learning (CoRL) Workshop, 2022 <span class="pub-award">&#127881; Oral Presentation</span></span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2210.16175.pdf" target="_blank">Paper</a>
     </div>
@@ -404,8 +403,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Learning to Teach in Cooperative Multiagent Reinforcement Learning</span>
     <span class="pub-authors">Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Miao Liu, Gerald Tesauro, Matthew Riemer, Christopher Amato, Murray Campbell, Jonathan P. How</span>
-    <span class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2019</span>
-    <span class="pub-award">&#127881; Outstanding Student Paper Honorable Mention</span>
+    <span class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2019 <span class="pub-award">&#127881; Outstanding Student Paper Honorable Mention</span></span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/1805.07830.pdf" target="_blank">Paper</a>
       <a href="https://news.mit.edu/2019/learning-to-teach-to-speed-up-learning-0129" target="_blank">MIT News</a>
@@ -511,8 +509,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning</span>
     <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Sungryull Sohn, Lajanugen Logeswaran, Dongsub Shim, Honglak Lee</span>
-    <span class="pub-venue">Neural Information Processing Systems (NeurIPS) Workshop, 2023</span>
-    <span class="pub-award">&#127881; Spotlight</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS) Workshop, 2023 <span class="pub-award">&#127881; Spotlight</span></span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2310.16730.pdf" target="_blank">Paper</a>
     </div>
