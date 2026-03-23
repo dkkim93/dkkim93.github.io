@@ -282,7 +282,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Game-Theoretical Perspectives on Active Equilibria: A Preferred Solution Concept over Nash Equilibria</span>
     <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Jakob N. Foerster, Gerald Tesauro, Jonathan P. How</span>
-    <span class="pub-venue">Conference on Robot Learning (CoRL) Workshop, 2022 <span class="pub-award">&#127881; Oral Presentation</span></span>
+    <span class="pub-venue">Conference on Robot Learning (CoRL) Workshop, 2022 <span class="pub-award">&#127881; Oral</span></span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2210.16175.pdf" target="_blank">Paper</a>
     </div>
