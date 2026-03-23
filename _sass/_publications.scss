@@ -119,6 +119,12 @@
     color: $gray;
     margin-top: 0.2em;
     display: block;
+
+    // Match font size to standalone .pub-award (e.g. Oral Presentation): .pub-note
+    // uses $type-size-6; scale nested award back to .pub-text body size.
+    .pub-award {
+      font-size: calc(1em / 0.75); // keep 0.75 in sync with $type-size-6
+    }
   }
 }
 
