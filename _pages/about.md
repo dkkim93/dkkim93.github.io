@@ -15,12 +15,25 @@ I am a recipient of <a href="http://ikef.or.kr/page.php?id=intro/intro">the Kwan
 
 &#129303; My up-to-date CV is available upon request.
 
-&#128196; The publication list on this website is under construction. For the most recent papers, please refer to my <a href="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en">Google Scholar profile</a>.
-
 Publication
 ======
 
 <h3 class="pub-section-title">Robot Learning</h3>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/ptfe_plan.mp4" autoplay loop muted playsinline></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation</span>
+    <span class="pub-authors">Jacob Levy*, Tyler Westenbroek*, Kevin Huang, Fernando Palafox, Patrick Yin, Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Abhishek Gupta, David Fridovich-Keil</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2603.15759" target="_blank">Paper</a>
+      <a href="https://sim-dist.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-entry">
   <div class="pub-img">
@@ -32,6 +45,7 @@ Publication
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.04585" target="_blank">Paper</a>
+      <a href="https://ellipsestairtraversal.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
@@ -61,21 +75,6 @@ Publication
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.01952" target="_blank">Paper</a>
       <a href="https://rlwg-grndctrl.github.io/" target="_blank">Project</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/ptfe_plan.mp4" autoplay loop muted playsinline></video>
-  </div>
-  <div class="pub-text">
-    <span class="pub-title">Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation</span>
-    <span class="pub-authors">Jacob Levy*, Tyler Westenbroek*, Kevin Huang, Fernando Palafox, Patrick Yin, Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Abhishek Gupta, David Fridovich-Keil</span>
-    <span class="pub-venue">Under Review, 2026</span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2603.15759" target="_blank">Paper</a>
-      <a href="https://sim-dist.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
