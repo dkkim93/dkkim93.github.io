@@ -296,7 +296,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Influencing Long-Term Behavior in Multiagent Reinforcement Learning</span>
     <span class="pub-authors"><strong>Dong-Ki Kim</strong>, Matthew Riemer, Miao Liu, Jakob N. Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan P. How</span>
-    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2022 &amp; ICLR 2022 Workshop <span class="pub-award">&#127881; Spotlight</span></span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2022<br>International Conference on Learning Representations (ICLR), 2022 Workshop <span class="pub-award">&#127881; Spotlight</span></span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2203.03535.pdf" target="_blank">Paper</a>
       <a href="https://github.com/dkkim93/further" target="_blank">Code</a>
@@ -418,7 +418,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Crossmodal Attentive Skill Learner</span>
     <span class="pub-authors">Shayegan Omidshafiei*, <strong>Dong-Ki Kim</strong>*, Jason Pazis, Jonathan P. How</span>
-    <span class="pub-venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018 &amp; Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2020</span>
+    <span class="pub-venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018<br>Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2020</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/1711.10314.pdf" target="_blank">Conference Paper</a>
       <a href="https://link.springer.com/article/10.1007/s10458-019-09439-5" target="_blank">Journal Paper</a>
