@@ -104,6 +104,7 @@ Publication
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
+      <a href="https://gluestick-vla.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
