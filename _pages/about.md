@@ -67,6 +67,21 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/ptfe_plan.mp4" autoplay loop muted playsinline></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation</span>
+    <span class="pub-authors">Jacob Levy^*, Tyler Westenbroek^*, Kevin Huang, Fernando Palafox, Patrick Yin, Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Abhishek Gupta, David Fridovich-Keil</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2603.15759" target="_blank">Paper</a>
+      <a href="https://sim-dist.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <img src="/images/pubs/verifier_method_website.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="SketchVerify">
   </div>
   <div class="pub-text">
