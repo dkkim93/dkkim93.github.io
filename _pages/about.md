@@ -56,7 +56,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
-    <span class="pub-authors">Aileen Liao, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Ali Agha, Shayegan Omidshafiei</span>
+    <span class="pub-authors">Aileen Liao, <strong>Dong-Ki Kim</strong>, Max Smith, Ali Agha, Shayegan Omidshafiei</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.07697" target="_blank">Paper</a>
@@ -100,7 +100,7 @@ Publication
   </div>
   <div class="pub-text">
     <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
-    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Olan Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali Agha, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
+    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali Agha, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
