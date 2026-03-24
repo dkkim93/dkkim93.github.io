@@ -60,6 +60,7 @@ Publication
     <span class="pub-venue">Under Review, 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.07697" target="_blank">Paper</a>
+      <a href="https://dadpiros2026.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
