@@ -52,7 +52,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/blurred_dadp.MP4" loop muted playsinline preload="none" class="lazy-video"></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/blurred_dadp.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
