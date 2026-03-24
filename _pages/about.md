@@ -112,21 +112,6 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <img src="/images/pubs/ventura.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="VENTURA">
-  </div>
-  <div class="pub-text">
-    <span class="pub-title">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</span>
-    <span class="pub-authors">Arthur Zhang, Xiangyun Meng, Luca Calliari, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Joydeep Biswas, Ali Agha, Amirreza Shaban</span>
-    <span class="pub-venue">Under Review, 2026</span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2510.01388" target="_blank">Paper</a>
-      <a href="https://venturapath.github.io/" target="_blank">Project</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-img">
     <img src="/images/pubs/door_humanoid.gif" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="StageACT">
   </div>
   <div class="pub-text">
@@ -136,6 +121,21 @@ Publication
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2509.13200" target="_blank">Paper</a>
       <a href="https://stageactdooropen.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
+    <img src="/images/pubs/ventura.png" onerror="this.onerror=null; this.src='/images/pubs/placeholder.svg';" alt="VENTURA">
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation</span>
+    <span class="pub-authors">Arthur Zhang, Xiangyun Meng, Luca Calliari, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Joydeep Biswas, Ali Agha, Amirreza Shaban</span>
+    <span class="pub-venue">International Conference on Robotics and Automation (ICRA), 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2510.01388" target="_blank">Paper</a>
+      <a href="https://venturapath.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
