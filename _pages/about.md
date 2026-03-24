@@ -52,7 +52,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/blurred_dadp.MP4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/blurred_dadp.MP4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks</span>
@@ -96,7 +96,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/gluestick.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/gluestick.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
@@ -141,7 +141,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/mindpalace.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/mindpalace.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Enter the Mind Palace: Reasoning and Planning for Long-term Active Embodied Question Answering</span>
@@ -156,7 +156,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/saycomply.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/saycomply.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">SayComply: Grounding Field Robotic Tasks in Operational Compliance through Retrieval-Based Language Models</span>
@@ -186,7 +186,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/tube-mpc.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/tube-mpc.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Demonstration-Efficient Guided Policy Search via Imitation of Robust Tube MPC</span>
@@ -201,7 +201,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/satellite-localization.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/satellite-localization.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Satellite Image-based Localization via Learned Embeddings</span>
@@ -217,7 +217,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/season-invariant.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/season-invariant.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Season-Invariant Semantic Segmentation with A Deep Multimodal Network</span>
@@ -291,7 +291,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/further.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/further.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Influencing Long-Term Behavior in Multiagent Reinforcement Learning</span>
@@ -383,7 +383,7 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
-    <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/policy-distillation.mp4" autoplay loop muted playsinline></video>
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/policy-distillation.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
     <span class="pub-title">Policy Distillation and Value Matching in Multiagent Reinforcement Learning</span>
@@ -529,3 +529,23 @@ Publication
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (entry.isIntersecting) {
+        var video = entry.target;
+        video.src = video.dataset.src;
+        video.autoplay = true;
+        video.play();
+        observer.unobserve(video);
+      }
+    });
+  }, { rootMargin: "200px" });
+
+  document.querySelectorAll("video.lazy-video").forEach(function (video) {
+    observer.observe(video);
+  });
+});
+</script>
