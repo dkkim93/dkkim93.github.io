@@ -532,13 +532,23 @@ Publication
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  function playVideo(video) {
+    var playPromise = video.play();
+    if (playPromise !== undefined) {
+      playPromise.catch(function () {});
+    }
+  }
+
   var observer = new IntersectionObserver(function (entries) {
     entries.forEach(function (entry) {
       if (entry.isIntersecting) {
         var video = entry.target;
         video.src = video.dataset.src;
         video.autoplay = true;
-        video.play();
+        video.addEventListener("canplay", function () {
+          playVideo(video);
+        }, { once: true });
+        video.load();
         observer.unobserve(video);
       }
     });
@@ -546,6 +556,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.querySelectorAll("video.lazy-video").forEach(function (video) {
     observer.observe(video);
+  });
+
+  document.querySelectorAll("video[autoplay]").forEach(function (video) {
+    if (video.paused) {
+      playVideo(video);
+    }
   });
 });
 </script>
