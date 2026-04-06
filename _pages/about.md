@@ -255,7 +255,6 @@ Publication
     <span class="pub-venue">Technical Report, 2015</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/1511.04668.pdf" target="_blank">Paper</a>
-      <a href="https://youtu.be/2Y08GRYnC3U" target="_blank">Video</a>
     </div>
   </div>
 </div>
@@ -377,7 +376,6 @@ Publication
     <span class="pub-venue">International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/1903.03216.pdf" target="_blank">Paper</a>
-      <a href="https://www.wired.com/brandlab/2019/06/robotic-future-bots-operate-together-learn/" target="_blank">WIRED News</a>
     </div>
   </div>
 </div>
