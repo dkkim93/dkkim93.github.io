@@ -27,7 +27,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation</span>
     <span class="pub-authors">Jacob Levy*, Tyler Westenbroek*, Kevin Huang, Fernando Palafox, Patrick Yin, Shayegan Omidshafiei, <strong>Dong-Ki Kim</strong>, Abhishek Gupta, David Fridovich-Keil</span>
-    <span class="pub-venue">Under Review, 2026</span>
+    <span class="pub-venue">Robotics: Science and Systems (RSS), 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.15759" target="_blank">Paper</a>
       <a href="https://sim-dist.github.io/" target="_blank">Project</a>
