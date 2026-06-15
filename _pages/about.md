@@ -37,6 +37,21 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <video data-src="https://phy-motion.github.io/assets/3D_reward_teaser_v2.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation</span>
+    <span class="pub-authors">Yidong Huang*, Zun Wang*, Han Lin, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jaehong Yoon, Jaemin Cho, Yue Zhang, Mohit Bansal</span>
+    <span class="pub-venue">Preprint, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2605.14269" target="_blank">Paper</a>
+      <a href="https://phy-motion.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/ellipse.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
@@ -428,21 +443,6 @@ Publication
 </div>
 
 <h3 class="pub-section-title">Large Language/Vision Models</h3>
-
-<div class="pub-entry">
-  <div class="pub-img">
-    <video data-src="https://phy-motion.github.io/assets/3D_reward_teaser_v2.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
-  </div>
-  <div class="pub-text">
-    <span class="pub-title">PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation</span>
-    <span class="pub-authors">Yidong Huang*, Zun Wang*, Han Lin, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jaehong Yoon, Jaemin Cho, Yue Zhang, Mohit Bansal</span>
-    <span class="pub-venue">Preprint, 2026</span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2605.14269" target="_blank">Paper</a>
-      <a href="https://phy-motion.github.io/" target="_blank">Project</a>
-    </div>
-  </div>
-</div>
 
 <div class="pub-entry">
   <div class="pub-img">
