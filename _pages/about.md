@@ -57,7 +57,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">ELLIPSE: Evidential Learning for Robust Waypoints and Uncertainties</span>
     <span class="pub-authors">Zihao Dong, Chanyoung Chung*, <strong>Dong-Ki Kim</strong>*, Mukhtar Maulimov*, Xiangyun Meng, Harmish Khambhaita, Ali Agha, Amirreza Shaban</span>
-    <span class="pub-venue">Under Review, 2026</span>
+    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2603.04585" target="_blank">Paper</a>
       <a href="https://ellipsestairtraversal.github.io/" target="_blank">Project</a>
@@ -87,7 +87,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment</span>
     <span class="pub-authors">Haoyang He, Jay Patrikar, <strong>Dong-Ki Kim</strong>, Max Smith, Daniel McGann, Ali Agha, Shayegan Omidshafiei, Sebastian Scherer</span>
-    <span class="pub-venue">Under Review, 2026</span>
+    <span class="pub-venue">International Conference on Intelligent Robots and Systems (IROS), 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2512.01952" target="_blank">Paper</a>
       <a href="https://rlwg-grndctrl.github.io/" target="_blank">Project</a>
