@@ -22,6 +22,21 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/gluestick.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
+    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali Agha, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
+    <span class="pub-venue">Conference on Robot Learning (CoRL), 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
+      <a href="https://gluestick-vla.github.io/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <video src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/ptfe_plan.mp4" autoplay loop muted playsinline></video>
   </div>
   <div class="pub-text">
@@ -106,21 +121,6 @@ Publication
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2511.17450" target="_blank">Paper</a>
       <a href="https://sketchverify.github.io/" target="_blank">Project</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-img">
-    <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/gluestick.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
-  </div>
-  <div class="pub-text">
-    <span class="pub-title">Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered</span>
-    <span class="pub-authors">Jason Jabbour, <strong>Dong-Ki Kim</strong>, Max Smith, Jay Patrikar, Radhika Ghosal, Youhui Wang, Ali Agha, Vijay Janapa Reddi, Shayegan Omidshafiei</span>
-    <span class="pub-venue">Under Review, 2026</span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2510.08464" target="_blank">Paper</a>
-      <a href="https://gluestick-vla.github.io/" target="_blank">Project</a>
     </div>
   </div>
 </div>
