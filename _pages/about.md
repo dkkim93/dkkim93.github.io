@@ -57,7 +57,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation</span>
     <span class="pub-authors">Yidong Huang*, Zun Wang*, Han Lin, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jaehong Yoon, Jaemin Cho, Yue Zhang, Mohit Bansal</span>
-    <span class="pub-venue">Preprint, 2026</span>
+    <span class="pub-venue">Neural Information Processing Systems (NeurIPS), 2026</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2605.14269" target="_blank">Paper</a>
       <a href="https://phy-motion.github.io/" target="_blank">Project</a>
@@ -117,7 +117,7 @@ Publication
   <div class="pub-text">
     <span class="pub-title">Planning with Sketch-Guided Verification for Physics-Aware Video Generation</span>
     <span class="pub-authors">Yidong Huang, Zun Wang, Han Lin, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Jaehong Yoon, Yue Zhang, Mohit Bansal</span>
-    <span class="pub-venue">Under Review, 2026</span>
+    <span class="pub-venue">Winter Conference on Applications of Computer Vision (WACV), 2027</span>
     <div class="pub-links">
       <a href="https://arxiv.org/pdf/2511.17450" target="_blank">Paper</a>
       <a href="https://sketchverify.github.io/" target="_blank">Project</a>
