@@ -22,6 +22,21 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <video data-src="https://narayananpp.github.io/fcts/assets/vid/teaser.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">FCTS: Failure-Guided Curriculum Tree Search Over Generated Terrain for Legged Parkour</span>
+    <span class="pub-authors">Narayanan Palghat Parameswaran*, <strong>Dong-Ki Kim</strong>, Jay Patrikar, Santiago Gutierrez, Harshad Zade, Shayegan Omidshafiei, Harmish Khambhaita</span>
+    <span class="pub-venue">Under Review, 2026</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2610.22619" target="_blank">Paper</a>
+      <a href="https://narayananpp.github.io/fcts/" target="_blank">Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <video data-src="https://media.githubusercontent.com/media/{{ site.repository }}/main/images/pubs/gluestick.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
