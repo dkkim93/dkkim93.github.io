@@ -22,6 +22,20 @@ Publication
 
 <div class="pub-entry">
   <div class="pub-img">
+    <video data-src="https://narayananpp.github.io/semantic-humanoid-retargeting-blog/teaser-media/spectator-tour.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
+  </div>
+  <div class="pub-text">
+    <span class="pub-title">HuMoTAR: Physics-Aware Agentic Retargeting for Humanoid–Object Interaction</span>
+    <span class="pub-authors">Narayanan Palghat Parameswaran, Jay Karhade, Haoyang He, Neehar Peri, Jay Patrikar, <strong>Dong-Ki Kim</strong>, Shayegan Omidshafiei, Sebastian Scherer, Deva Ramanan</span>
+    <span class="pub-venue">Blog, 25 October 2026</span>
+    <div class="pub-links">
+      <a href="https://narayananpp.github.io/semantic-humanoid-retargeting-blog/#method" target="_blank">Blog</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-img">
     <video data-src="https://narayananpp.github.io/fcts/assets/vid/teaser.mp4" loop muted playsinline preload="none" class="lazy-video"></video>
   </div>
   <div class="pub-text">
